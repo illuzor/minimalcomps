@@ -8,6 +8,8 @@ Then:
 
 	import RondaFont;
 	RondaFont;
+	//...
+	Font.registerFont(RondaFont);
 
 
 ### License
