@@ -2,6 +2,14 @@
 ### Minimal ActionScript 3.0 UI Components for Flash
 http://www.minimalcomps.com
 
+Updated for ASC 2.0
+For use connect fonts.swc
+Then:
+
+	import RondaFont;
+	RondaFont;
+
+
 ### License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
